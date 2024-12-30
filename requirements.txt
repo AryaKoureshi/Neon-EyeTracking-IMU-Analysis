@@ -1,0 +1,7 @@
+pupil-labs-realtime-api==1.0.0
+opencv-python
+pandas
+numpy
+matplotlib
+plotly
+scipy
